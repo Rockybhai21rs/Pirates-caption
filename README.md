@@ -11,3 +11,5 @@ A Telegram bot that automatically edits video captions when posted in a channel.
    - `API_HASH`
    - `BOT_TOKEN`
 4. Deploy and enjoy! 🚀
+
+The bot will also run a small Flask server on port 8080 for Koyeb compatibility.
